@@ -123,14 +123,6 @@ Optimised for deployment on [Vercel](https://vercel.com/):
 npm run build
 ```
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/pranjalisr/student-management_lead)
-
----
-
-## 👩‍💻 Author
-
-**Pranjali** — [@pranjalisr](https://github.com/pranjalisr)
-
 ---
 
 ## 📄 License
